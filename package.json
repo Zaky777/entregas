@@ -1,0 +1,20 @@
+{
+  "name": "ejerciciosHAB",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaky777/ejerciciosHAB.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zaky777/ejerciciosHAB/issues"
+  },
+  "homepage": "https://github.com/Zaky777/ejerciciosHAB#readme",
+  "description": ""
+}
